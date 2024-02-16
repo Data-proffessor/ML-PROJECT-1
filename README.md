@@ -10,7 +10,10 @@ https://code.visualstudio.com/
 ```
 https://git-scm.com/downloads
 ```
- 
+ ## If we are using the command prompt to activate the anaconda environment use this command
+ ```
+conda activate <path of the your env folder>
+```
 
 
 
