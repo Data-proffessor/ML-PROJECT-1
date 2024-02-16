@@ -1,5 +1,5 @@
-from setuptools import setup,find_packages
-from typing import List
+from setuptools import setup, find_packages
+from typing  import  List
 
 HYPEN_E_DOT = '-e .'
 
@@ -22,6 +22,6 @@ setup(
     author="vamsi",
     author_email="vamsikopparthi84@gmail.com",
     install_requires=get_requirement("requirements.txt"),
-    packages=find_packages(),
+    packages=find_packages()
 
 )
