@@ -1,4 +1,4 @@
-## create a virtual environment
+ ## create a virtual environment
 '''
 conda create -p env python=3.8 -y
 '''
@@ -25,7 +25,7 @@ git branch -M main
 '''
 
 '''
-git remote add origin <your repo url>
+git remote add origin  <your repo url>
 '''
 
 '''
